@@ -18,7 +18,7 @@ This is a simple frontend project which is built while learning full-stack web d
 
 
 ## A live link
-[click here to see the live web](https://melakudemeke.github.io/DrumKit/)
+[click here to see the live web](https://harshittripathi8055.github.io/Drum-Kit/)
 
 ## Result of the code
 ![site picture](images/pagescreen.png)
